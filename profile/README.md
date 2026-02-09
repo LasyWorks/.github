@@ -1,6 +1,6 @@
-# LazyWorks
+# LasyWorks
 
-LazyWorks is a technology driven organization focused on building efficient software solutions with minimal friction and maximum impact.
+LasyWorks is a technology driven organization focused on building efficient software solutions with minimal friction and maximum impact.
 
 We value smart automation, clean systems, and results over noise.
 
