@@ -47,7 +47,7 @@ LazyWorks is built and managed by a small, focused team:
 - Aravind, Project Manager, DevOps, Frontend Developer
 - Charan nayak, UI and Frontend Developer
 - Srivardhan, Finance, Content, ML Engineer, Backend Support
-- Divya prakash, Full Stack Developer
+- Divya prakash, Marketing
 
 ## Contact
 
